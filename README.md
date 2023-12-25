@@ -2,6 +2,8 @@
 
 In this project i create a responsive simple React Quiz App with React and CSS.
 
+<a href="https://react-quiz-app-k.netlify.app/">React-Quiz-App Live</a>
+
 ## Features of the project 🔷
 
 - One file for each component.

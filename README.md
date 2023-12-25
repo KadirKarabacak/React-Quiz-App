@@ -9,6 +9,7 @@ Live Version 🟢 <a href="https://react-quiz-app-k.netlify.app/">React-Quiz-App
 - One file for each component.
 - Error handling for questions fetch.
 - Timer that checks the status of the Quiz.
+- A progressbar synchronized with your question progress.
 - The loader which controls the process until the questions are fetched.
 - A welcome screen before starting the exam and an end screen at the end of the exam.
 - Highscore feature after you restart the quiz.

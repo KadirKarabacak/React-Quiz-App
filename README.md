@@ -26,3 +26,5 @@ Live Version 🟢 <a href="https://react-quiz-app-k.netlify.app/">React-Quiz-App
 - Short Circuiting, destructuring, map, reduce and sort method which is JS feature.
 - Key prop on rendering list.
 - Cleanup function for clean setInterval sideeffects.
+
+<img src="public/react-quiz-app.gif"/>
